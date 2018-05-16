@@ -1,0 +1,65 @@
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Shader\Forward.xnb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Shader\PostProcess.xnb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.exe
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.pdb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\heightmap.xnb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\shitty-grass.xnb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\heightmap1.xnb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\tree.xnb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Treeskin.xnb
+C:\Users\tippe\OneDrive\Dokumente\Uni Dokumente\sopra03\trunk\src\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Treeskin_0.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Shader\Forward.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Shader\PostProcess.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\heightmap.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\heightmap1.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\shitty-grass.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\tree.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Treeskin.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Treeskin_0.xnb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.exe
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.pdb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojAssemblyReference.cache
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.CoreCompileInputs.cache
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.CopyComplete
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+C:\Users\tippe\Documents\SilverbackEditor\LevelEditor\bin\Windows\x86\Debug\Content\Shader\Shadow.xnb

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/tippe/Documents/SilverbackEditor/LevelEditor/Content/Shader/Shadow.fx</SourceFile>
+  <SourceTime>2018-05-15T21:26:53.8214842+02:00</SourceTime>
+  <DestFile>C:/Users/tippe/Documents/SilverbackEditor/LevelEditor/Content/bin/Windows/Shader/Shadow.xnb</DestFile>
+  <DestTime>2018-05-15T21:26:56.6382925+02:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
